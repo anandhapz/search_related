@@ -10,7 +10,7 @@ Free Magento 2 extension To show related product at Search result page and Produ
 5.	Unencrypted code for easy customization
 
 # Installation Instruction:
-- Copy the content of the repo to the app/code/Hapz /SearchRelated/ folder
+- Copy the content of the repo to the app/code/Hapz/SearchRelated/ folder
 - Run command: php bin/magentosetup:upgrade
 - Run Command: php bin/magentosetup:static-content:deploy
 - Now Flush Cache: php bin/magentocache:flush
